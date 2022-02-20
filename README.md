@@ -9,3 +9,7 @@ Aberta no início do semestre, tem o intuito de relembrar tópicos básicos da l
 ## Lista de Ordenação Elementar
 
 Introdução aos algoritmos de ordenação elementares (bubble, selection e insertion) e à busca binária. 
+
+## Lista Merge sort
+
+Lista dedicada ao algoritmo de ordenação Merge Sort e de busca binária.
